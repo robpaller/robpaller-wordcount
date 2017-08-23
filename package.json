@@ -1,0 +1,18 @@
+{
+  "name": "robpaller-wordcount",
+  "main": "./lib/robpaller-wordcount",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "robpaller-wordcount:toggle"
+  },
+  "repository": "https://github.com/robpaller/robpaller-wordcount",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
