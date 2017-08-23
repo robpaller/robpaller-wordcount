@@ -1,4 +1,4 @@
-# robpaller-wordcount package
+# robpaller-wordcount Atom.io package
 
 A tutorial for creating Atom.io packages
 
